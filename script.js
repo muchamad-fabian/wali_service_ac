@@ -4,8 +4,8 @@
    Contoh: nomor 0812-3456-7890 menjadi "6281234567890"
 ========================================================= */
 const CONFIG = {
-  whatsappNumber: "6281234567890", // <-- GANTI dengan nomor WhatsApp asli WALI TEHNIK
-  displayNumber: "+62812-3456-7890" // <-- tampilan nomor di bagian kontak, samakan dengan nomor di atas
+  whatsappNumber: "6282338149282", // <-- GANTI dengan nomor WhatsApp asli WALI TEHNIK
+  displayNumber: "+62823-3814-9282" // <-- tampilan nomor di bagian kontak, samakan dengan nomor di atas
 };
 
 document.getElementById('year').textContent = new Date().getFullYear();
