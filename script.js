@@ -5,7 +5,7 @@
 ========================================================= */
 const CONFIG = {
   whatsappNumber: "6281234567890", // <-- GANTI dengan nomor WhatsApp asli WALI TEHNIK
-  displayNumber: "+62 812-3456-7890" // <-- tampilan nomor di bagian kontak, samakan dengan nomor di atas
+  displayNumber: "+62812-3456-7890" // <-- tampilan nomor di bagian kontak, samakan dengan nomor di atas
 };
 
 document.getElementById('year').textContent = new Date().getFullYear();
